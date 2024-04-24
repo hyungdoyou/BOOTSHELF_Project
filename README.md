@@ -302,8 +302,8 @@
 
 ### 💥 개발 폴더로 이동하기
 
-#### ➡ [프론트엔드 바로가기](https://github.com/beyond-sw-camp/be02-fin-BuildUp-KMS/tree/main/frontend)
+#### ➡ [프론트엔드 바로가기](https://github.com/hyungdoyou/BOOTSHELF_Project/tree/main/frontend)
 
-#### ➡ [백엔드 바로가기](https://github.com/beyond-sw-camp/be02-fin-BuildUp-KMS/tree/main/backend)
+#### ➡ [백엔드 바로가기](https://github.com/hyungdoyou/BOOTSHELF_Project/tree/main/backend)
 
-#### ➡ [CI/CD 바로가기](https://github.com/beyond-sw-camp/be02-fin-BuildUp-KMS/tree/main/cicd)
+#### ➡ [CI/CD 바로가기](https://github.com/hyungdoyou/BOOTSHELF_Project/tree/main/cicd)
